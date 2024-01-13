@@ -34,3 +34,6 @@ Start the server
   dotnet run WordsFinder.csproj
 ```
 
+## Screenshots
+
+![Start scree](https://photos.app.goo.gl/pb6ZA83h5vn7Hw4H6)
